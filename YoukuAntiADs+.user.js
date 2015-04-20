@@ -33,8 +33,8 @@
 //双虚线之前为在线地址，请自行需该服务器地址！如使用本地版请注释掉双虚线以上地址
                     'youku_loader': 'http://swf.adtchrome.com/loader.swf',
                     'youku_player': this.iURL + 'player.swf',
-                    'ku6': this.iURL + 'ku6.swf',
-                    'ku6_out': this.iURL + 'ku6_out.swf',
+                    'ku6': 'http://player.ku6cdn.com/default/common/player/201501151102/player.swf',
+                    'ku6_out': 'http://player.ku6cdn.com/default/common/player/201501151102/player.swf',
                     'iqiyi': 'http://swf.adtchrome.com/iqiyi_20140624.swf',
                     'iqiyi5': 'http://swf.adtchrome.com/iqiyi_20140624.swf',
                     'iqiyi_out': 'http://swf.adtchrome.com/iqiyi_20140624.swf',
